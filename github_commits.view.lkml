@@ -184,3 +184,8 @@ explore: pull_request_config {
   extension: required
   extends: [pull_request_core]
 }
+
+explore: issue_config {
+  extension: required
+  extends: [issue_core]
+}
