@@ -1,4 +1,4 @@
-project_name: "block-github-commits-config"
+project_name: "block-github-config"
 
 constant: GITHUB_SCHEMA {
   value: "github_skeleton"
